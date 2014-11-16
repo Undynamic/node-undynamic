@@ -1,0 +1,37 @@
+{
+  "name": "undynamic",
+  "version": "1.0.4",
+  "description": "Turns dynamic pages into static pages to be indexed by search engines.",
+  "main": "./lib/undynamic",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/undynamic/node-undynamic"
+  },
+  "keywords": [
+    "dynamic",
+    "ajax",
+    "escaped",
+    "fragments",
+    "google",
+    "bot",
+    "static",
+    "indexing",
+    "engines",
+    "search"
+  ],
+  "author": "Undynamic <undynamic@undynamic.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/undynamic/node-undynamic/issues"
+  },
+  "homepage": "https://github.com/undynamic/node-undynamic",
+  "dependencies": {
+    "joi": "^4.8.1"
+  }
+}
