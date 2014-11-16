@@ -1,6 +1,6 @@
 {
   "name": "undynamic",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Turns dynamic pages into static pages to be indexed by search engines.",
   "main": "./lib/undynamic",
   "directories": {
